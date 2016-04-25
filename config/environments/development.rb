@@ -1,5 +1,7 @@
 Rails.application.configure do
   
+  config.web_console.development_only = false
+
   config.cache_classes = false
 
   config.eager_load = false
