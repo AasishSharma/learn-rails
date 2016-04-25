@@ -14,6 +14,8 @@ gem 'jbuilder', 		'~> 2.0'
 gem 'byebug'
 gem 'web-console', 		'~> 2.0'
 gem 'spring'
+gem 'bcrypt',                  '3.1.7'
+
 
 # learn-rails
 gem 'foundation-rails', '~> 5.5'
